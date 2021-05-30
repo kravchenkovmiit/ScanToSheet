@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ScanToSheet</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Scan data</string>
+    <string name="second_fragment_label">Add info</string>
+    <string name="scan">Scan</string>
+    <string name="finish">Done</string>
+
+    <string name="hello_first_fragment">Scan data</string>
+    <string name="hello_second_fragment">Add info. Arg: %1$s</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <!-- Settings -->
+    <string name="g_sheets_url">https://docs.google.com/spreadsheets/d/</string>
+    <string name="g_sheet_id_default">1DSPpkTjMo7hrCeNwFozgGQNVKm0UwtyCIfZzXDOvhMg</string>
+    <string name="username_default">u_name</string>
+</resources>

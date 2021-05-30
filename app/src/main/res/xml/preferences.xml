@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="pref_ss_id"
+        android:title="SpreadSheet ID"
+        android:summary="Enter spread sheed id."
+        android:defaultValue="1DSPpkTjMo7hrCeNwFozgGQNVKm0UwtyCIfZzXDOvhMg"
+        />
+
+    <EditTextPreference
+        android:key="pref_username"
+        android:title="Surname"
+        android:summary="Enter your surname"
+        android:defaultValue=""
+        />
+
+</PreferenceScreen>
